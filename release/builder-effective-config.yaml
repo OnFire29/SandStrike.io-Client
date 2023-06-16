@@ -1,0 +1,7 @@
+directories:
+  output: release
+  buildResources: resources
+appId: sandstrike-client
+win:
+  icon: build/icon.ico
+electronVersion: 13.0.1
